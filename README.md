@@ -1,4 +1,4 @@
-<h1 align="center">Hai I'm Lorraine</h1>
+<h1 align="center">Welcome to my profile! My name is Lorraine and I'm contactable at >_<#0001 on discord :)</h1>
 
 ## 🤍 My Skills & Expertise
 - Solidity & Java
