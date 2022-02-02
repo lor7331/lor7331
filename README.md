@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile!</h1>
-My name is Lor and i'm contactable at: <br>
+<h3 align="left">My name is Lor and i'm contactable at: </h3>
 
 <p align="left">
   <a href="https://twitter.com/lihh"><img title="Add Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
