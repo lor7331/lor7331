@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Hello! Welcome to my profile</h1>
 <h3 align="left">My name is Lor and I am contactable at: </h3>
 
 <p align="left">
